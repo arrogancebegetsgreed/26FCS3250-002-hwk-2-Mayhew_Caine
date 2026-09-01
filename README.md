@@ -18,6 +18,13 @@ Based on this description, create 10 high-level requirements for the sales syste
 
 ```
 Write your requirements here!
+
+User Functional Requirements:
+
+User Non-Functional Requirements:
+
+System Requirements:
+
 ```
 
 # Instructions: Part 2
@@ -26,7 +33,7 @@ For each of the following high-level requirements, mark them as either user or s
 
 * librarians should be able to generate reports on book loans, returns, and inventory status *
 
-[ ] user, functional requirement
+[ X ] user, functional requirement
 
 [ ] user, non-functional requirement
 
@@ -38,11 +45,11 @@ For each of the following high-level requirements, mark them as either user or s
 
 [ ] user, non-functional requirement
 
-[ ] system requirement
+[ X ] system requirement
 
 * users should get notifications about due dates and overdue books *
 
-[ ] user, functional requirement
+[ X ] user, functional requirement
 
 [ ] user, non-functional requirement
 
@@ -52,15 +59,14 @@ For each of the following high-level requirements, mark them as either user or s
 
 [ ] user, functional requirement
 
-[ ] user, non-functional requirement
+[ X ] user, non-functional requirement
 
 [ ] system requirement
 
 * users should be able to search for for books by title, author, genre, or ISBN *
 
-[ ] user, functional requirement
+[ X ] user, functional requirement
 
 [ ] user, non-functional requirement
-
 [ ] system requirement
 
